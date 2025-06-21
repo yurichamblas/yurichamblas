@@ -1,5 +1,3 @@
-## Hi there 👋
-
 👋 Hola, soy Yuri Chamblas — Arquitecto, Computational Designer & AI Developer
 
 Bienvenido a mi espacio en GitHub.
@@ -10,7 +8,7 @@ Soy un Arquitecto y Desarrollador Computacional especializado en la convergencia
 
 🎯 Mi enfoque
 
-Mi trabajo se centra en la transformación digital del diseño arquitectónico y la automatización de flujos BIM a través de tecnologías de vanguardia, combinando:
+Mi trabajo se centra en la transformación digital del diseño arquitectónico y la automatización de flujos de Diseño a través de tecnologías de vanguardia, combinando:
 
 Modelado paramétrico y generativo
 
@@ -30,17 +28,17 @@ Model Context Protocol (MCP) & Agentic Workflows
 
 🔬 Proyectos destacados
 
-🧠 BIM Agent
+🧠 Cora Agent
 Desarrollo de un agente autónomo para Revit, integrando backend en Python (FastAPI) y un plugin C# mediante flujos agenticos y herramientas atómicas, capaz de interpretar lenguaje natural, generar acciones sobre el modelo BIM y ejecutar tareas complejas mediante AI y MCP.
 
 🧪 Integraciones MCP multiplataforma
-Experimentos con servidores MCP personalizados, integración con Claude, OpenAI, Flux Kontext, filesystem y entorno multiherramienta para reforzar la autonomía de agentes BIM.
+Experimentos con servidores MCP personalizados, integración con Claude, Revit MCP, Rhino MCP, Grasshopper MCP, filesystem y entorno multiherramienta para reforzar la autonomía de agentes BIM.
 
 🚀 Generative Design Tools
-Prototipado de soluciones de diseño generativo aplicadas a normativas urbanas, planificación de masas, análisis GIS, y estudios reglamentarios en Dynamo y Forma.
+Prototipado de soluciones de diseño generativo aplicadas a la Arquitectura e industrias AEC.
 
 🎨 Visualización AI-Driven
-Experimentación con herramientas como Stable Diffusion, Midjourney, ComfyUI y generación de visualizaciones arquitectónicas controladas por prompts y sistemas generativos.
+Experimentación con herramientas como Stable Diffusion, Automatic 1111, Midjourney, ComfyUI, Flux, y generación de visualizaciones arquitectónicas controladas por prompts y sistemas generativos.
 
 ---
 
@@ -52,7 +50,7 @@ Visualización: Enscape, Twinmotion, QGIS, Photoshop, InDesign
 
 Programación: Python, C#, FastAPI, MCP, JSON-RPC, GitHub Actions
 
-AI & ML: OpenAI GPT-4o, Claude 3, Stable Diffusion, Midjourney, ComfyUI, LangChain, Chainlit
+AI & ML: OpenAI, Claude, Stable Diffusion,Flux, Midjourney, ComfyUI, LangChain, Chainlit
 
 Backend & DevOps: Docker, REST API, Slackbot, OpenAI plugins, Git
 
@@ -101,18 +99,3 @@ Investigación aplicada a diseño computacional
 📫 Contacto
 
 Puedes contactarme por aquí en GitHub o por mis redes para conversar sobre nuevos desafíos.
-
-<!--
-**yurichamblas/yurichamblas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
