@@ -1,4 +1,5 @@
-👋 Hola, soy Yuri Chamblas — Arquitecto, Computational Designer & AI Developer
+👋 Hola, soy Yuri Chamblas.
+Arquitecto, Computational Designer & AI Developer
 
 Bienvenido a mi espacio en GitHub.
 
