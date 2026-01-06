@@ -1,102 +1,151 @@
-👋 Hola, soy Yuri Chamblas.
-Arquitecto, Computational Designer & AI Developer
+# 👋 Hola, soy Yuri Chamblas
 
-Bienvenido a mi espacio en GitHub.
+**Architect · AI Engineer · Computational Designer**
 
-Soy un Arquitecto y Desarrollador Computacional especializado en la convergencia entre el diseño, la tecnología y la inteligencia artificial aplicada a la industria AEC (Arquitectura, Ingeniería y Construcción).
+📍 **Location:** Chile (Remote)
+📧 **Email:** [yurichamblas@gmail.com](mailto:yurichamblas@gmail.com)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/yurichamblas/](https://www.linkedin.com/in/yurichamblas/)
+🐙 **GitHub:** [https://github.com/yurichamblas](https://github.com/yurichamblas)
+🚀 **Product:** [https://www.coraagent.xyz/](https://www.coraagent.xyz/)
 
----
-
-🎯 Mi enfoque
-
-Mi trabajo se centra en la transformación digital del diseño arquitectónico y la automatización de flujos de Diseño a través de tecnologías de vanguardia, combinando:
-
-Modelado paramétrico y generativo
-
-Automatización BIM (Revit, Rhino.Inside, Dynamo)
-
-Desarrollo de herramientas AI-driven
-
-Backend API con Python + FastAPI
-
-Integración de modelos de lenguaje (LLMs) en flujos de trabajo BIM
-
-Desarrollo de plugins personalizados en C# para Revit
-
-Model Context Protocol (MCP) & Agentic Workflows
+Construyo herramientas de **Inteligencia Artificial aplicada a BIM y diseño arquitectónico**, especializado en **agentes autónomos, automatización en Revit y flujos agentivos para la industria AEC**.
 
 ---
 
-🔬 Proyectos destacados
+## 🎯 Mi enfoque
 
-🧠 Cora Agent
-Desarrollo de un agente autónomo para Revit, integrando backend en Python (FastAPI) y un plugin C# mediante flujos agenticos y herramientas atómicas, capaz de interpretar lenguaje natural, generar acciones sobre el modelo BIM y ejecutar tareas complejas mediante AI y MCP.
+Trabajo en la intersección entre **Arquitectura, Software e IA**, con foco en generar impacto real sobre procesos de diseño y producción:
 
-🧪 Integraciones MCP multiplataforma
-Experimentos con servidores MCP personalizados, integración con Claude, Revit MCP, Rhino MCP, Grasshopper MCP, filesystem y entorno multiherramienta para reforzar la autonomía de agentes BIM.
+* 🧩 **Automatización BIM efectiva**
+  Reducción de tareas manuales en Revit mediante agentes inteligentes y herramientas AI.
 
-🚀 Generative Design Tools
-Prototipado de soluciones de diseño generativo aplicadas a la Arquitectura e industrias AEC.
+* 🧠 **Agentic Workflows para AEC**
+  Sistemas que interpretan lenguaje natural y ejecutan acciones directas sobre modelos BIM.
 
-🎨 Visualización AI-Driven
-Experimentación con herramientas como Stable Diffusion, Automatic 1111, Midjourney, ComfyUI, Flux, y generación de visualizaciones arquitectónicas controladas por prompts y sistemas generativos.
-
----
-
-🛠 Tecnologías que utilizo
-
-BIM & CAD: Revit, Rhino, Grasshopper, Dynamo, AutoCAD, Forma, Speckle
-
-Visualización: Enscape, Twinmotion, QGIS, Photoshop, InDesign
-
-Programación: Python, C#, FastAPI, MCP, JSON-RPC, GitHub Actions
-
-AI & ML: OpenAI, Claude, Stable Diffusion,Flux, Midjourney, ComfyUI, LangChain, Chainlit
-
-Backend & DevOps: Docker, REST API, Slackbot, OpenAI plugins, Git
-
-Productividad: Notion, Miro, Scrum Agile
+* ⚙️ **Diseño computacional escalable**
+  Desde prototipos generativos hasta herramientas listas para producción y uso profesional.
 
 ---
 
-🎓 Formación
+## 🔬 Proyectos destacados
 
-Arquitectura — Universidad del Bío-Bío
+### 🧠 Cora Agent
 
-Especialización en AI & Machine Learning:
+Agente autónomo para Revit que interpreta lenguaje natural y ejecuta acciones BIM mediante un backend en **Python (FastAPI)**, un **plugin en C#** y **Model Context Protocol (MCP)**.
 
-Machine Learning (Stanford, Coursera)
+**Features principales:**
 
-LLM & Generative AI (Google Cloud)
+* Natural Language → BIM Actions
+* Tool calling y flujos agentivos
+* Arquitectura modular y escalable
 
-Responsible AI (Google Cloud)
-
----
-
-🌎 Mi visión
-
-> "Automatizar lo repetitivo, potenciar la creatividad humana y llevar el diseño computacional a un nuevo nivel de inteligencia."
-
-Trabajo activamente en el desarrollo de soluciones de inteligencia artificial aplicadas al diseño arquitectónico, la ingeniería de software aplicada al BIM y los flujos de trabajo agentivos autónomos.
+**Estado:** MVP activo
 
 ---
 
-🤝 Colaboraciones y oportunidades
+### 🧪 Integraciones MCP Multiplataforma
 
-Estoy abierto a colaboraciones en proyectos de:
+Experimentos e implementaciones con servidores MCP personalizados e integración con:
 
-IA aplicada al diseño arquitectónico
+* Revit MCP
+* Rhino / Grasshopper MCP
+* Filesystem MCP
 
-BIM automation
-
-Generative AI para AEC
-
-Desarrollo de plugins, APIs o sistemas agentivos
-
-Investigación aplicada a diseño computacional
+Orientado a reforzar la autonomía de agentes BIM y flujos multiherramienta.
 
 ---
 
-📫 Contacto
+### 🚀 Generative Design Tools
 
-Puedes contactarme por aquí en GitHub o por mis redes para conversar sobre nuevos desafíos.
+Prototipado de soluciones de **diseño generativo** aplicadas a arquitectura e industrias AEC, integrando lógica paramétrica, automatización y AI.
+
+---
+
+### 🎨 Visualización AI-Driven
+
+Experimentación con generación visual arquitectónica mediante:
+
+* Stable Diffusion
+* ComfyUI
+* Flux
+* Midjourney
+
+Controladas por prompts, pipelines generativos y sistemas híbridos diseño + IA.
+
+---
+
+## 🛠 Tech Stack
+
+### Core
+
+* Python · FastAPI · C#
+* Revit API · Rhino.Inside
+* Agentic Workflows · MCP
+
+### AI
+
+* OpenAI · Claude
+* Stable Diffusion · ComfyUI · Flux
+* LangChain · Chainlit
+
+### Dev & Backend
+
+* Docker · GitHub Actions
+* REST APIs · JSON-RPC
+
+### BIM & Diseño
+
+* Revit · Rhino · Grasshopper · Dynamo
+* AutoCAD · Forma · Speckle
+
+---
+
+## 🚧 Actualmente trabajando en
+
+* Evolución de **Cora Agent** hacia un sistema SaaS multi-BIM
+* Integraciones MCP avanzadas con Revit, Rhino y filesystem
+* Arquitecturas agentivas **agnósticas de proveedor de modelos** (OpenAI / Claude / OSS)
+
+---
+
+## 🎓 Formación
+
+* **Arquitectura** — Universidad del Bío-Bío
+
+**Especialización en IA & Machine Learning:**
+
+* Machine Learning — Stanford (Coursera)
+* LLM & Generative AI — Google Cloud
+* Responsible AI — Google Cloud
+
+---
+
+## 🌐 Idiomas
+
+* **Español:** Nativo
+* **Inglés:** B2 — fluido en contextos profesionales y técnicos
+* Responsible AI — Google Cloud
+
+---
+
+## 🌎 Visión
+
+> Automatizar tareas repetitivas en BIM para que arquitectos y equipos AEC puedan enfocarse en decisiones de diseño, criterio y creatividad, apoyados por agentes inteligentes y herramientas confiables.
+
+---
+
+## 🤝 Colaboraciones
+
+Abierto a colaborar en proyectos de:
+
+* IA aplicada al diseño arquitectónico
+* Automatización BIM
+* Generative AI para AEC
+* Desarrollo de plugins, APIs y sistemas agentivos
+* Investigación aplicada en diseño computacional
+
+---
+
+## 📫 Contacto
+
+Puedes contactarme por GitHub o LinkedIn para conversar sobre nuevos desafíos, colaboraciones o ideas.
