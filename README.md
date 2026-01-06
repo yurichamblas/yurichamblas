@@ -1,11 +1,14 @@
 # 👋 Hola, soy Yuri Chamblas
 
-**Architect · AI Engineer · Computational Designer
+Architect · AI Engineer · Computational Designer
 
 📍 **Location:** Chile (Remote)
 📧 **Email:** [yurichamblas@gmail.com](mailto:yurichamblas@gmail.com)
+
 🔗 **LinkedIn:** [https://www.linkedin.com/in/yurichamblas/](https://www.linkedin.com/in/yurichamblas/)
+
 🐙 **GitHub:** [https://github.com/yurichamblas](https://github.com/yurichamblas)
+
 🚀 **Product:** [https://www.coraagent.xyz/](https://www.coraagent.xyz/)
 
 ---
