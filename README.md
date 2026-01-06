@@ -3,6 +3,7 @@
 Architect · AI Engineer · Computational Designer
 
 📍 **Location:** Chile (Remote)
+
 📧 **Email:** [yurichamblas@gmail.com](mailto:yurichamblas@gmail.com)
 
 🔗 **LinkedIn:** [https://www.linkedin.com/in/yurichamblas/](https://www.linkedin.com/in/yurichamblas/)
@@ -13,7 +14,7 @@ Architect · AI Engineer · Computational Designer
 
 ---
 
-Construyo herramientas de **Inteligencia Artificial aplicada a BIM y diseño arquitectónico**, especializado en **agentes autónomos, automatización en Revit y flujos agentivos para la industria AEC**.
+Construyo herramientas de **Inteligencia Artificial aplicada a BIM y diseño arquitectónico**, especializado en **agentes autónomos, automatización en Revit y flujos agenticos para la industria AEC**.
 
 ---
 
