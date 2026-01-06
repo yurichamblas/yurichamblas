@@ -1,6 +1,6 @@
 # 👋 Hola, soy Yuri Chamblas
 
-Architect · AI Engineer · Computational Designer
+Architect · Computational Designer
 
 📍 **Location:** Chile (Remote)
 
