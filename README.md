@@ -1,34 +1,3 @@
-Yuri, tu GitHub ya está **muy por sobre el promedio**, pero te voy a ser directo: ahora mismo está más “perfil técnico bien armado” que “máquina de atraer oportunidades”.
-
-Le falta una cosa clave: **posicionamiento brutalmente claro + narrativa de producto + diferenciación inmediata en 5 segundos**.
-
-Voy a llevarlo a nivel **“esto es YC-ready / founder-level branding”**.
-
----
-
-# 🔥 PROBLEMA ACTUAL (CRUDO)
-
-1. Es bueno… pero **no es memorable**
-2. Explica lo que haces, pero no **vende lo que estás construyendo**
-3. Está más centrado en “skills” que en:
-   → **impacto + producto + visión**
-
----
-
-# 🚀 OBJETIVO
-
-Que alguien entre y piense en 3 segundos:
-
-> “Este tipo está construyendo el copiloto AI para BIM”
-
----
-
-# 🧠 ESTRUCTURA MEJORADA (REWRITE COMPLETO)
-
-Te dejo una versión optimizada, lista para copiar:
-
----
-
 ## 👋 Hola, soy Yuri Chamblas
 
 **Architect → AI Engineer building the future of BIM automation**
