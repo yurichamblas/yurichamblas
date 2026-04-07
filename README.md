@@ -64,7 +64,7 @@ Focused on:
 
 ## 🔬 Key Projects
 
-### 🧠 Cora Agent (Main Project)
+### 🧠 Cora Agent
 
 AI agent for BIM automation inside Revit.
 
@@ -76,32 +76,6 @@ Multi-tool agent systems:
 * Rhino / Grasshopper
 * Filesystem
 
-### 🎨 AI Visualization Pipelines
-
-* Stable Diffusion / ComfyUI / Flux
-* Image-to-image workflows from BIM views
-
----
-
-## 🛠 Tech Stack
-
-**Core**
-
-* Python · FastAPI · C#
-* Revit API · Rhino.Inside
-* MCP · Agentic Workflows
-
-**AI**
-
-* OpenAI · Claude
-* Stable Diffusion · ComfyUI · Flux
-
-**Infra**
-
-* Docker · GitHub Actions
-* REST APIs · JSON-RPC
-
----
 
 ## 🚧 Currently
 
