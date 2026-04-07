@@ -4,7 +4,9 @@
 
 📍 Chile (Remote)
 📧 [yurichamblas@gmail.com](mailto:yurichamblas@gmail.com)
+
 🔗 LinkedIn: [https://www.linkedin.com/in/yurichamblas/](https://www.linkedin.com/in/yurichamblas/)
+
 🚀 Product: [https://www.coraagent.xyz/](https://www.coraagent.xyz/)
 
 ---
