@@ -1,102 +1,20 @@
-## 👋 Hola, soy Yuri Chamblas
+# Yuri Chamblas
 
-**Architect → AI Engineer building the future of BIM automation**
+**Architect & AI engineer. Building [Cora Agent](https://coraagent.xyz) — the AI copilot for Revit.**
 
-📍 Chile (Remote)
-📧 [yurichamblas@gmail.com](mailto:yurichamblas@gmail.com)
-
-🔗 LinkedIn: [https://www.linkedin.com/in/yurichamblas/](https://www.linkedin.com/in/yurichamblas/)
-
-🚀 Product: [https://www.coraagent.xyz/](https://www.coraagent.xyz/)
+![Cora Agent demo](./assets/cora-demo.gif)
+<!-- Reemplaza con un GIF de 5-10s mostrando: prompt en lenguaje natural → elementos creados en Revit -->
 
 ---
 
-## 🚀 What I’m building
+10+ years in architecture shipping BIM on real projects. Now turning that domain knowledge into software.
 
-I’m building **Cora Agent** — an AI copilot for BIM.
+**Cora Agent** - Revit C# plugin + FastAPI backend + multi-LLM orchestration (Claude, GPT, Gemini) + MCP. Multi-tenant SaaS, currently in pilot with AEC studios.
 
-A system that understands natural language and executes real actions inside tools like Revit.
+**Stack** &nbsp;·&nbsp; C# / .NET / WPF &nbsp;·&nbsp; Python / FastAPI &nbsp;·&nbsp; Revit API &nbsp;·&nbsp; Rhino.Inside &nbsp;·&nbsp; MCP &nbsp;·&nbsp; Supabase / pgvector
 
-> From “create 10 levels” → to fully modeled BIM elements.
-
----
-
-## ⚡ Core Idea
-
-Architecture and engineering teams are wasting **30%+ of their time** on repetitive tasks.
-
-Cora transforms that into:
-
-**Natural Language → Structured Actions → BIM Execution**
+**Background** &nbsp;·&nbsp; Stanford ML Specialization &nbsp;·&nbsp; DeepLearning.AI &nbsp;·&nbsp; Universidad del Bío-Bío
 
 ---
 
-## 🧠 Cora Agent
-
-AI-powered assistant for Revit:
-
-* 🗣 Natural language → BIM actions
-* ⚙️ Tool calling + agentic workflows
-* 🔌 MCP-based multi-tool integration
-* 🧱 Direct interaction with Revit API (C# plugin)
-* 🧠 Backend with FastAPI + LLM orchestration
-
-**Stack:**
-C# (.NET/WPF) + Python (FastAPI) + OpenAI / Claude + MCP
-
-**Status:** MVP → Scaling to SaaS
-
----
-
-## 🧩 What I do
-
-I work at the intersection of:
-
-* Architecture
-* Software Engineering
-* Artificial Intelligence
-
-Focused on:
-
-* 🧱 BIM automation (Revit API, Rhino.Inside)
-* 🤖 Agentic systems (tool calling, MCP, LLM orchestration)
-* ⚙️ Production-ready AI tools for AEC
-
----
-
-## 🔬 Key Projects
-
-### 🧠 Cora Agent
-
-AI agent for BIM automation inside Revit.
-
-### 🔌 MCP Integrations
-
-Multi-tool agent systems:
-
-* Revit
-* Rhino / Grasshopper
-* Filesystem
-
-
-## 🚧 Currently
-
-* Scaling Cora Agent → SaaS
-* Building multi-agent architecture
-* Making the system model-agnostic (OpenAI / Claude / OSS)
-
----
-
-## 🎯 Vision
-
-> Turn BIM into an AI-native environment.
-
-Where architects don’t model — they **direct systems**.
-
----
-
-## 🤝 Open to
-
-* AI + Architecture collaborations
-* BIM automation systems
-* Startup / early-stage AI products
+[coraagent.xyz](https://coraagent.xyz) &nbsp;·&nbsp; [yurichamblas.com](https://yurichamblas.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/yurichamblas) &nbsp;·&nbsp; yuri@coraagent.xyz
